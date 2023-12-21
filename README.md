@@ -20,7 +20,7 @@ This repo meets the acceptance criteria presented to me:
 
 First clone this repo:
 
-`git clone noelvaughn/datarade_challenge`
+`git clone git@github.com:noelvaughn/datarade_challenge.git`
 
 Go to the root directory:
 
